@@ -11,4 +11,4 @@ adheres to [Semantic Versioning][semver].
 
 * Modified for Swift Package Manager (SPM) and CocoaPods.
 
-[1.0.0]: https://github.com/amosogra/swift-psl/releases/tag/1.0.0
+[1.0.0]: https://github.com/amosogra/swift-psl/releases/tag/v1.0.0
